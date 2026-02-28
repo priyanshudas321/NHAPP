@@ -1,0 +1,8 @@
+.idea/
+.vscode/
+*.iml
+.DS_Store
+
+# Ignore the environment variables file for the node server
+WhatsAppClone/.env
+WhatsAppClone/.env.*
